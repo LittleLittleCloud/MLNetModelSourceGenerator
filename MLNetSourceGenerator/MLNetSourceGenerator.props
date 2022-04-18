@@ -1,0 +1,7 @@
+﻿<Project>
+    <ItemGroup>
+		<CompilerVisibleItemMetadata Include="AdditionalFiles" MetadataName="IsMLNetModel" />
+		<CompilerVisibleItemMetadata Include="AdditionalFiles" MetadataName="InputClassName" />
+		<CompilerVisibleItemMetadata Include="AdditionalFiles" MetadataName="OutputClassName" />
+    </ItemGroup>
+</Project>

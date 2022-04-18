@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Microsoft.ML;
+using Microsoft.ML.Data;
+
+namespace <#=NameSpace#>
+{
+
+<#=ModelInputClass#>
+
+<#=ModelOutputClass#>
+}
+
+<#+
+public string ModelInputClass {get; set;}
+public string ModelOutputClass {get; set;}
+public string NameSpace {get; set;}
+#>
